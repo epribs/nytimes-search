@@ -1,0 +1,23 @@
+.jumbotron {
+	background-color: #191970;
+	color: white;
+	text-align: center;
+}
+
+.form-group {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.buttons {
+	margin-left: 20px;
+	margin-right: 20px;
+}
+.btnSearch {
+	margin-right: 10px;
+}
+.panel > .panel-heading {
+    background-image: none;
+    background-color: #333;
+    color: #fff;
+		border-color: #333;
+}
